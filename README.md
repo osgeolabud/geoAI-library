@@ -1,11 +1,18 @@
 # OSGeoLAB's GeoAI Lab Library
-Catalog of Open Resources related to GeoAI.
+Specialized catologs of open resources related with Geospatial Artificial Intelligence (GeoAI)
 
-## Categories
+## Catalogs
 
-### Papers
+### Free and Open Source Software
 ### Books
-### Chapters
+#### Chapters
+### Open Educational Resources 
 ### Videos
 ### Slides
 ### Web Content
+### Jupyter Notebooks
+### Lab Guides
+### Thesis
+
+
+
