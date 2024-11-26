@@ -1,3 +1,5 @@
+[![Logo GeoAI Lab Universidad Distrital Francisco José de Caldas](https://github.com/osgeolabud/geoai/blob/main/Logo_GeoAI_Lab_B_W_400.png)]
+
 # OSGeoLAB's GeoAI Lab Library
 Specialized catologs of open resources related with Geospatial Artificial Intelligence (GeoAI)
 
