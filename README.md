@@ -14,5 +14,6 @@ Specialized catologs of open resources related with Geospatial Artificial Intell
 ### Lab Guides
 ### Thesis
 
-
+**Universidad Distrital Francisco José de Caldas**
+**Semillero de Investigación OSGeoLAB-UD**
 
