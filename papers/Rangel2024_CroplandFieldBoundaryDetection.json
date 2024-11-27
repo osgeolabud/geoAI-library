@@ -1,0 +1,32 @@
+{
+  "id": "Rangel2024_CroplandFieldBoundaryDetection",
+  "type": "research-article",
+  "title": "A Unified Framework for Cropland Field Boundary Detection and Segmentation",
+  "authors": [
+    "Rodrigo Fill Rangel",
+    "Vítor Nascimento Lourenço",
+    "Lucas Volochen Oldoni",
+    "Ana Flavia Carrara Bonamigo",
+    "Wallas Santos",
+    "Bruno Silva Oliveira",
+    "Mateus Neves Barreto"
+  ],
+  "journal": {
+    "name": "Proceedings of the Winter Conference on Applications of Computer Vision Workshops (WACVW)",
+    "volume": "2024",
+    "pages": "636–644",
+    "year": "2024"
+  },
+  "doi": "",
+  "url": "https://openaccess.thecvf.com/content/WACVW2024/papers/Unified_Framework_for_Cropland_Field_Boundary_Detection_and_Segmentation.pdf",
+  "abstracts": {
+    "english": "Agricultural monitoring is essential to ensure food security while minimizing environmental impacts. Crop fields are the basic units of farmland management, and delimiting their boundaries aids precision agriculture. This work proposes a novel end-to-end segmentation framework for cropland field boundary detection using Sentinel-2 images. The framework includes data preparation, segmentation methods (Felzenszwalb’s algorithm, U-Net, and R2AttU-Net), and post-processing techniques, achieving significant accuracy improvements. Results demonstrate the framework's ability to delineate cropland boundaries effectively, with U-Net performing well for larger fields and the post-processing stage enhancing accuracy and removing artifacts.",
+    "spanish": "El monitoreo agrícola es esencial para garantizar la seguridad alimentaria mientras se minimizan los impactos ambientales. Los campos de cultivo son unidades básicas de gestión agrícola, y delimitar sus límites ayuda a la agricultura de precisión. Este trabajo propone un novedoso marco de segmentación de extremo a extremo para la detección de límites de campos agrícolas utilizando imágenes Sentinel-2. El marco incluye preparación de datos, métodos de segmentación (algoritmo de Felzenszwalb, U-Net y R2AttU-Net) y técnicas de postprocesamiento, logrando mejoras significativas en precisión. Los resultados demuestran la capacidad del marco para delinear eficazmente los límites de los cultivos, destacando el rendimiento de U-Net para campos más grandes y la mejora en precisión gracias al postprocesamiento."
+  },
+  "license": {
+    "type": "Open Access",
+    "url": "https://openaccess.thecvf.com/",
+    "description": "This paper is Open Access as provided by the Computer Vision Foundation."
+  },
+  "notes": "This study highlights the integration of Sentinel-2 imagery with novel segmentation frameworks and emphasizes the importance of post-processing in improving field boundary detection accuracy."
+}
