@@ -15,7 +15,7 @@
     "year": "2024"
   },
   "doi": "10.1111/tgis.13248",
-  "url": "https://doi.org/10.1111/tgis.13248",
+  "url": "https://www.acsu.buffalo.edu/~yhu42/papers/2024_TGIS_PyGRF.pdf",
   "abstracts": {
     "english": "Geographical random forest (GRF) is a spatially explicit machine learning model with advantages in prediction accuracy and local interpretation. However, existing GRF implementations face limitations such as computational inefficiency and lack of a Python version. This study introduces PyGRF, a Python-based GRF implementation that incorporates improvements like theory-informed hyperparameter determination, local training sample expansion, and spatially weighted local prediction. PyGRF is evaluated on an example dataset and demonstrated in two case studies in public health and natural disasters, showcasing its applicability and performance enhancements.",
     "spanish": "El bosque aleatorio geográfico (GRF) es un modelo de aprendizaje automático explícito espacialmente, con ventajas en precisión de predicción e interpretación local. Sin embargo, las implementaciones actuales de GRF enfrentan limitaciones como ineficiencia computacional y falta de una versión en Python. Este estudio presenta PyGRF, una implementación de GRF basada en Python que incorpora mejoras como la determinación informada por la teoría de hiperparámetros, la expansión de muestras de entrenamiento local y la predicción local ponderada espacialmente. PyGRF se evalúa en un conjunto de datos de ejemplo y se demuestra en dos estudios de caso en salud pública y desastres naturales, mostrando su aplicabilidad y mejoras en el rendimiento."
