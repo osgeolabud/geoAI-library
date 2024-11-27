@@ -1,0 +1,29 @@
+{
+  "id": "Sun2024_PyGRF",
+  "type": "research-article",
+  "title": "PyGRF: An Improved Python Geographical Random Forest Model and Case Studies in Public Health and Natural Disasters",
+  "authors": [
+    "Kai Sun",
+    "Ryan Zhenqi Zhou",
+    "Jiyeon Kim",
+    "Yingjie Hu"
+  ],
+  "journal": {
+    "name": "Transactions in GIS",
+    "volume": "2024",
+    "pages": "",
+    "year": "2024"
+  },
+  "doi": "10.1111/tgis.13248",
+  "url": "https://doi.org/10.1111/tgis.13248",
+  "abstracts": {
+    "english": "Geographical random forest (GRF) is a spatially explicit machine learning model with advantages in prediction accuracy and local interpretation. However, existing GRF implementations face limitations such as computational inefficiency and lack of a Python version. This study introduces PyGRF, a Python-based GRF implementation that incorporates improvements like theory-informed hyperparameter determination, local training sample expansion, and spatially weighted local prediction. PyGRF is evaluated on an example dataset and demonstrated in two case studies in public health and natural disasters, showcasing its applicability and performance enhancements.",
+    "spanish": "El bosque aleatorio geográfico (GRF) es un modelo de aprendizaje automático explícito espacialmente, con ventajas en precisión de predicción e interpretación local. Sin embargo, las implementaciones actuales de GRF enfrentan limitaciones como ineficiencia computacional y falta de una versión en Python. Este estudio presenta PyGRF, una implementación de GRF basada en Python que incorpora mejoras como la determinación informada por la teoría de hiperparámetros, la expansión de muestras de entrenamiento local y la predicción local ponderada espacialmente. PyGRF se evalúa en un conjunto de datos de ejemplo y se demuestra en dos estudios de caso en salud pública y desastres naturales, mostrando su aplicabilidad y mejoras en el rendimiento."
+  },
+  "license": {
+    "type": "Open Access",
+    "url": "https://onlinelibrary.wiley.com/journal/14679671",
+    "description": "This paper is published as Open Access under Wiley's policy for Transactions in GIS."
+  },
+  "notes": "PyGRF's source code and documentation are available on GitHub at https://github.com/geoai-lab/PyGRF. The tool is published on PyPI for easy installation."
+}
