@@ -17,7 +17,7 @@
     "pages": "636–644",
     "year": "2024"
   },
-  "doi": "",
+  "doi": "10.1109/WACVW60836.2024.00073",
   "url": "https://openaccess.thecvf.com/content/WACVW2024/papers/Unified_Framework_for_Cropland_Field_Boundary_Detection_and_Segmentation.pdf",
   "abstracts": {
     "english": "Agricultural monitoring is essential to ensure food security while minimizing environmental impacts. Crop fields are the basic units of farmland management, and delimiting their boundaries aids precision agriculture. This work proposes a novel end-to-end segmentation framework for cropland field boundary detection using Sentinel-2 images. The framework includes data preparation, segmentation methods (Felzenszwalb’s algorithm, U-Net, and R2AttU-Net), and post-processing techniques, achieving significant accuracy improvements. Results demonstrate the framework's ability to delineate cropland boundaries effectively, with U-Net performing well for larger fields and the post-processing stage enhancing accuracy and removing artifacts.",
